@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "atelier-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--", "--host"],
+      "cwd": "D:/landing-leads-sites/atelier-kharkiv-styleform",
+      "port": 5173
+    }
+  ]
+}
